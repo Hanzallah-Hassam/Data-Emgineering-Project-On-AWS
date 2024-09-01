@@ -68,7 +68,7 @@ The primary goal of this project is to build an ETL pipeline that ingests, trans
   LIMIT 10;
   ```
 
-- You should see results with "Samsung" or other top brands listed at the top.
+- You should see results with "Samsung" as a top brands listed at the top.
   ![image](https://github.com/user-attachments/assets/66383cfe-66f8-4f6d-bf65-49bcfdd47676)
 
 ## Conclusion
