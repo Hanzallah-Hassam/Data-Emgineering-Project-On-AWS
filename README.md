@@ -59,7 +59,7 @@ The primary goal of this project is to build an ETL pipeline that ingests, trans
 
 - Navigate to **AWS Athena** via the Glue Console by clicking "View Data" on the new table created.
 - Run the following SQL query to find the top 10 most sold brands:
-![image](https://github.com/user-attachments/assets/66383cfe-66f8-4f6d-bf65-49bcfdd47676)
+
   ```sql
   SELECT brand, COUNT(*) AS most_sold_brand
   FROM your_table_name
@@ -69,6 +69,7 @@ The primary goal of this project is to build an ETL pipeline that ingests, trans
   ```
 
 - You should see results with "Samsung" or other top brands listed at the top.
+  ![image](https://github.com/user-attachments/assets/66383cfe-66f8-4f6d-bf65-49bcfdd47676)
 
 ## Conclusion
 
