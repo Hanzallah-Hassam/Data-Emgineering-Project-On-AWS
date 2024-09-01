@@ -3,6 +3,8 @@
 ## Overview
 
 This project focuses on developing an ETL pipeline using AWS services to prepare eCommerce transaction data for downstream consumers. We utilize datasets from REES46, specifically the electronics transaction data, to demonstrate the pipeline's functionality.
+![Untitled Diagram drawio(1)](https://github.com/user-attachments/assets/f6071031-8e0d-4ed5-87ce-2134a046116a)
+
 
 ## Project Goal
 
